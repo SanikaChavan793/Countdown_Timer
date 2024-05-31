@@ -1,0 +1,20 @@
+#timer {
+    font-size : 48px;
+    text-align : center;
+    margin-bottom : 20px;
+}
+
+button {
+    font-size : 24px;
+    padding : 10px 20px;
+    margin : 0 10px;
+    background-color: rgb(115, 234, 242);
+    cursor: pointer;
+}
+input {
+    font-size : 24px;
+    padding : 10px 20px;
+    margin : 0 10px;
+    background-color: rgba(242, 115, 223, 0.598);
+    cursor: pointer;
+}
